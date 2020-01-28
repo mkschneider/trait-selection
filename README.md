@@ -2,7 +2,9 @@
 ***
 https://besjournals.onlinelibrary.wiley.com/journal/13652435
 ***
-This code allows to repoduce the main results presented in the article using the local and the global model. 
+This code and data to reproduce the main results using the local and the global model presented in the article. 
 
-Please consult the article for details on the study. Supporting information S4 provides a detailled description of the modeling approach.
+Please consult the article for details on the study. 
+
+Supporting information S4 provides a detailled description of the modeling approach.
 
